@@ -1,6 +1,6 @@
 ### Hello! Thanks for stopping by!
 
-I"m Roderick "Yazura" Fitzgerald. I like to joke around and have fun when I can!<br>
+I'm Roderick Fitzgerald. I like to joke around and have fun when I can!<br>
 At the moment I'm looking for work as a Junior Software Engineer, open to relocating worldwide.
 
 My of my development experience is primarily with Embedded Software Engineering and secondarily Video Game Development.
